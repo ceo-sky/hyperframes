@@ -533,7 +533,7 @@
 ## Verificação de implementação
 
 - **Pasta do Drive:** a apresentação é enviada para o mesmo parent do DOCX `Aula-imagem-26-17.docx`.
-- **Margins e grid:** margem lateral de 0,72 in em canvas de 13,333 in = 5,4%; margem superior de 0,45 in em canvas de 7,5 in = 6,0%; grid de 12 colunas é estrutural e invisível; conteúdo alinhado à esquerda; whitespace ≥35%.
+- **Margins e grid:** margem lateral de 0,72 in em canvas de 13,333 in = 5,4%; margem superior de 0,45 in em canvas de 7,5 in = 6,0%; margem inferior de 0,48 in em canvas de 7,5 in = 6,4%; grid de 12 colunas é estrutural e invisível; conteúdo alinhado à esquerda; whitespace ≥35%.
 - **Works_List (B):** foto à esquerda com 6,45 in em canvas de 13,333 in = 48,4%; três itens e ícones monoline à direita.
 - **Editorial_Feature (E):** foto panorâmica inferior com 3,38 in em canvas de 7,5 in = 45,1%; título/métrica acima e card branco sobreposto.
 - **Superfície:** sem mascotes, emoji, confetti, neon, glassmorphism, fundo escuro, sombras pesadas ou grid visível.
