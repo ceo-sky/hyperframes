@@ -65,6 +65,17 @@ Ao fim da aula, o aluno deverá conseguir:
 - Rodapé discreto: códigos de referência, número do slide e aviso “correlação clínico-radiográfica”. Imagem de caso deve estar anonimizadas e ter autorização/uso educacional apropriado.
 - A fonte das imagens clínicas não deve ser uma IA. Usar banco institucional/caso autorizado ou figura licenciada, com crédito. Os prompts abaixo são guias para **diagramas didáticos** e não substituem imagem diagnóstica real.
 
+### Checklist de conformidade do plano
+
+| Requisito | Previsão verificável neste plano |
+|---|---|
+| Fontes para validação | Seção 5 reúne 28 referências rastreáveis — 14 nacionais e 14 internacionais — com livro, periódico/norma, DOI ou link de consulta; os códigos aparecem na matriz slide a slide. |
+| Título por slide | A matriz contém 56 títulos; todos foram conferidos com limite máximo de **30 caracteres** (maior título: 27 caracteres). |
+| Conteúdo textual objetivo | Cada linha da matriz define a mensagem e o formato: 1–2 parágrafos curtos, 3–5 bulletpoints, tabela, diagrama, caso ou pergunta. A regra proíbe sobrecarregar um slide com múltiplos formatos densos. |
+| Prompt visual a cada 2 slides | A seção 6 contém 28 prompts, um para cada dupla sequencial de slides, indicando se o apoio deve ser diagrama, ícone, ilustração médica ou imagem clínica autorizada. |
+| Consistência visual | Fundo branco, paleta hexadecimal fixa e ícones de linha arredondada com espessura única de 2 px são obrigatórios em todo o deck. |
+| Didática e respiro | A composição reserva aproximadamente 30% de área negativa, limita a um visual clínico e um diagrama por slide e veta elementos decorativos/ruidosos. |
+
 ### Sistema visual único para os prompts
 
 - Fundo branco, traço vetorial arredondado de **2 px**, sem gradiente, bastante espaço negativo.
