@@ -5,6 +5,8 @@
 **Formato:** discussão guiada de imagens, casos clínicos e oficina de decisão  
 **Tema central:** imagem que altera a conduta no planejamento de exodontias de terceiros molares, dentes retidos/tracionamento e patologias odontogênicas frequentes; noções aplicadas de DTM, RM e ultrassonografia.
 
+> **Escopo desta etapa — somente plano de aula.** Este documento apresenta objetivos, cronograma, matriz pedagógica, referências e diretrizes visuais. **Não são construídos slides, piloto, imagens clínicas ou deck final nesta etapa.** A produção dos slides só começa após a aprovação explícita deste plano.
+
 > **Escopo clínico.** O foco é solicitar, ler e comunicar exames para tomada de decisão. Não é uma aula de física introdutória nem habilita interpretação isolada de exame complexo sem correlação clínica e laudo. A interpretação deve ser integrada à anamnese, exame físico, responsabilidade profissional e, quando indicado, ao radiologista odontológico / estomatologista / CTBMF.
 
 > **Nota de escopo terminológico.** O termo “tracionomanero” foi interpretado como **tracionamento de dente retido**. O plano inclui um recorte prático de localização e planejamento por imagem; se a intenção era outro procedimento, a matriz pode ser ajustada antes da produção dos slides.
